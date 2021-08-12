@@ -11,15 +11,15 @@ For compilation you need the following:
 ## To Compile
 1. First clone the repository using Git
 
-```git clone https://github.com/Gauraviitkgp/SIRModellingCs.git ```
+    ```git clone https://github.com/Gauraviitkgp/SIRModellingCs.git ```
 
 2. Then Change directory to the cloned position
 
-``` cd (Repo Location) ```
+    ``` cd (Repo Location) ```
 
 3. Then run the following command. It would open up your code in Visual Studio 2019 if installed correctly.
 
-```slngen```
+    ```slngen```
 
 4. To Execute the code you can use ```F5``` buttion
 
