@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIRModellingCs", "SIRModellingCs.csproj", "{3A93EF79-4D92-4636-A156-F3617E42F6FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A93EF79-4D92-4636-A156-F3617E42F6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A93EF79-4D92-4636-A156-F3617E42F6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A93EF79-4D92-4636-A156-F3617E42F6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A93EF79-4D92-4636-A156-F3617E42F6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D41CB22-219F-421B-848C-BB1F965FFB4C}
+	EndGlobalSection
+EndGlobal
